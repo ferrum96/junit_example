@@ -19,12 +19,12 @@ public class DivisionTest {
         this.expected = expected;
     }
 
-    @Parameterized.Parameters(name = "{index}:divOf({0}-{1})={2}")
+    @Parameterized.Parameters(name = "[{index}]:   {0} / {1} = {2}")
     public static Iterable<Object[]> dataForTest() {
         return Arrays.asList(new Object[][]{
                 {3, 2, 1.5},
                 {12, 6, 2},
-                {18, 2, 9}
+                {18.35, 2.46, 9}
         });
     }
 
