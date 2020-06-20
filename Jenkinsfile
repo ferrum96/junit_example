@@ -16,6 +16,11 @@ pipeline {
         		bat 'mvn test'
             }
         }
+        post {
+            always {
+                cleanWs()
+            }
+        }
 
     }
 }
