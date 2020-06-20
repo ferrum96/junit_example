@@ -16,8 +16,9 @@ pipeline {
         		bat 'mvn test'
             }
         }
-        post {
+        stage ('Delete dir') {
             always {
+                deleteDir()
                 cleanWs()
             }
         }
