@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db388ae5-a817-450a-893b-5dc9bb8f77c6" name="Default Changelist" comment="add tests">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="db388ae5-a817-450a-893b-5dc9bb8f77c6" name="Default Changelist" comment="fix Jenkinsfile" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -142,6 +140,7 @@
       <workItem from="1592489515680" duration="4605000" />
       <workItem from="1592557093203" duration="1652000" />
       <workItem from="1592585160882" duration="87000" />
+      <workItem from="1592661990370" duration="307000" />
     </task>
     <task id="LOCAL-00001" summary="fix jenkinsfile">
       <created>1592478699126</created>
@@ -199,7 +198,28 @@
       <option name="project" value="LOCAL" />
       <updated>1592558133229</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="fix Jenkinsfile">
+      <created>1592662037403</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1592662037403</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fix Jenkinsfile">
+      <created>1592662213833</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1592662213833</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fix Jenkinsfile">
+      <created>1592662287918</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1592662287918</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,7 +241,8 @@
     <MESSAGE value="fix jenkinsfile" />
     <MESSAGE value="add test" />
     <MESSAGE value="add tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="add tests" />
+    <MESSAGE value="fix Jenkinsfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix Jenkinsfile" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592496648494">
@@ -248,9 +269,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592559522039" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1592558143015">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1592662293253">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1592558143015" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1592662293253" />
   </component>
 </project>

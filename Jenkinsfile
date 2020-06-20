@@ -17,8 +17,10 @@ pipeline {
             }
         }
         stage ('Delete dir') {
-            deleteDir()
-            cleanWs()
+            steps {
+                deleteDir()
+                cleanWs()
+            }
         }
 
     }
