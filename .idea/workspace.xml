@@ -140,7 +140,7 @@
       <workItem from="1592489515680" duration="4605000" />
       <workItem from="1592557093203" duration="1652000" />
       <workItem from="1592585160882" duration="87000" />
-      <workItem from="1592661990370" duration="307000" />
+      <workItem from="1592661990370" duration="656000" />
     </task>
     <task id="LOCAL-00001" summary="fix jenkinsfile">
       <created>1592478699126</created>
@@ -219,7 +219,35 @@
       <option name="project" value="LOCAL" />
       <updated>1592662287918</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="fix Jenkinsfile">
+      <created>1592662350591</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1592662350591</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fix Jenkinsfile">
+      <created>1592662420302</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1592662420302</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fix Jenkinsfile">
+      <created>1592662461367</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1592662461367</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fix Jenkinsfile">
+      <created>1592662632995</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1592662632995</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,9 +297,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592559522039" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1592662293253">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1592662637074">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1592662293253" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1592662637074" />
   </component>
 </project>
