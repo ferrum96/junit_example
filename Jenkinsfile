@@ -17,17 +17,11 @@ pipeline {
             }
         }
 
-        stage ('Clean WS') {
+        stage ('Clean') {
 
             steps {
                 deleteDir()
                 cleanWs()
-            }
-        }
-
-        stage ('Report') {
-            steps {
-                junit 'target/surefire-reports/*.xml'
             }
         }
 
