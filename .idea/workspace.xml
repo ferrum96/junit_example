@@ -19,22 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db388ae5-a817-450a-893b-5dc9bb8f77c6" name="Default Changelist" comment="add SuiteTest">
-      <change afterPath="$PROJECT_DIR$/src/main/java/autotests/glue/Steps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/autotests/plugin/AllureCucumber3Jvm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/autotests/plugin/CucumberSourceUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/autotests/plugin/LabelBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/autotests/plugin/TagParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CucumberRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/CalculateTest.feature" afterDir="false" />
+    <list default="true" id="db388ae5-a817-450a-893b-5dc9bb8f77c6" name="Default Changelist" comment="add cucumber">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/autotests/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/AdditionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/junit/AdditionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DivisionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/junit/DivisionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/MultiplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/junit/MultiplicationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SubtractionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/junit/SubtractionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SuiteTestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/junit/SuiteTestClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +152,7 @@
       <workItem from="1592585160882" duration="87000" />
       <workItem from="1592661990370" duration="1574000" />
       <workItem from="1592829457797" duration="2750000" />
-      <workItem from="1593074177909" duration="7656000" />
+      <workItem from="1593074177909" duration="8364000" />
     </task>
     <task id="LOCAL-00001" summary="fix jenkinsfile">
       <created>1592478699126</created>
@@ -294,7 +280,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592829653512</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="add cucumber">
+      <created>1593082170143</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1593082170143</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -318,7 +311,8 @@
     <MESSAGE value="add tests" />
     <MESSAGE value="fix Jenkinsfile" />
     <MESSAGE value="add SuiteTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="add SuiteTest" />
+    <MESSAGE value="add cucumber" />
+    <option name="LAST_COMMIT_MESSAGE" value="add cucumber" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592496648494">
@@ -337,30 +331,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593077987546" />
-    <state width="1493" height="348" key="GridCell.Tab.0.bottom" timestamp="1593081293521">
+    <state width="1493" height="348" key="GridCell.Tab.0.bottom" timestamp="1593082773091">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="348" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593081293521" />
-    <state width="1493" height="348" key="GridCell.Tab.0.center" timestamp="1593081293520">
+    <state width="1493" height="348" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593082773091" />
+    <state width="1493" height="348" key="GridCell.Tab.0.center" timestamp="1593082773091">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="348" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593081293520" />
-    <state width="1493" height="348" key="GridCell.Tab.0.left" timestamp="1593081293520">
+    <state width="1493" height="348" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593082773091" />
+    <state width="1493" height="348" key="GridCell.Tab.0.left" timestamp="1593082773090">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="348" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593081293520" />
-    <state width="1493" height="348" key="GridCell.Tab.0.right" timestamp="1593081293521">
+    <state width="1493" height="348" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593082773090" />
+    <state width="1493" height="348" key="GridCell.Tab.0.right" timestamp="1593082773091">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="348" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593081293521" />
+    <state width="1493" height="348" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593082773091" />
     <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1593075943160">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1593075943160" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1592829658712">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1593082189767">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1592829658712" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1593082189767" />
     <state x="521" y="334" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1593080761601">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

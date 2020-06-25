@@ -21,7 +21,6 @@ pipeline {
 
             steps {
                 deleteDir()
-                cleanWs()
             }
         }
 
