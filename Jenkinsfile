@@ -17,13 +17,6 @@ pipeline {
             }
         }
 
-        stage ('Clean') {
-
-            steps {
-                deleteDir()
-            }
-        }
-
         stage('Reports') {
             steps{
                 allure([

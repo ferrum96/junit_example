@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db388ae5-a817-450a-893b-5dc9bb8f77c6" name="Default Changelist" comment="fix jenkinsfile">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -153,7 +152,7 @@
       <workItem from="1592585160882" duration="87000" />
       <workItem from="1592661990370" duration="1574000" />
       <workItem from="1592829457797" duration="2750000" />
-      <workItem from="1593074177909" duration="9348000" />
+      <workItem from="1593074177909" duration="9743000" />
     </task>
     <task id="LOCAL-00001" summary="fix jenkinsfile">
       <created>1592478699126</created>
@@ -295,7 +294,21 @@
       <option name="project" value="LOCAL" />
       <updated>1593083118421</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="fix jenkinsfile">
+      <created>1593083805274</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1593083805274</updated>
+    </task>
+    <task id="LOCAL-00022" summary="fix jenkinsfile">
+      <created>1593084050405</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1593084050405</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -339,30 +352,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593077987546" />
-    <state width="1493" height="348" key="GridCell.Tab.0.bottom" timestamp="1593083429106">
+    <state width="1493" height="348" key="GridCell.Tab.0.bottom" timestamp="1593083799872">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="348" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593083429106" />
-    <state width="1493" height="348" key="GridCell.Tab.0.center" timestamp="1593083429105">
+    <state width="1493" height="348" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593083799872" />
+    <state width="1493" height="348" key="GridCell.Tab.0.center" timestamp="1593083799871">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="348" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593083429105" />
-    <state width="1493" height="348" key="GridCell.Tab.0.left" timestamp="1593083429105">
+    <state width="1493" height="348" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593083799871" />
+    <state width="1493" height="348" key="GridCell.Tab.0.left" timestamp="1593083799871">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="348" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593083429105" />
-    <state width="1493" height="348" key="GridCell.Tab.0.right" timestamp="1593083429106">
+    <state width="1493" height="348" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593083799871" />
+    <state width="1493" height="348" key="GridCell.Tab.0.right" timestamp="1593083799872">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="348" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593083429106" />
+    <state width="1493" height="348" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593083799872" />
     <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1593075943160">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1593075943160" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1593083127270">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1593084057975">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1593083127270" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1593084057975" />
     <state x="521" y="334" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1593080761601">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
