@@ -25,9 +25,20 @@
             <version>3.141.59</version>
         </dependency>
         <dependency>
+            <groupId>io.cucumber</groupId>
+            <artifactId>cucumber-java</artifactId>
+            <version>${cucumber.version}</version>
+        </dependency>
+        <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>${junit.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>io.cucumber</groupId>
+            <artifactId>cucumber-junit</artifactId>
+            <version>${cucumber.version}</version>
+            <scope>test</scope>
         </dependency>
         <dependency>
             <groupId>io.qameta.allure</groupId>
@@ -55,14 +66,14 @@
                 <version>3.0.0-M4</version>
                 <configuration>
                     <includes>
-                        <include>**/*Test.java</include>
+                        <include>**/CucumberRunner.java</include>
                     </includes>
-
                     <testFailureIgnore>true</testFailureIgnore>
                     <shutdown>kill</shutdown>
                     <argLine>
                         -Dfile.encoding=UTF-8
                         -javaagent:${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar
+                        -Dcucumber.options="--plugin autotests.plugin.AllureCucumber3Jvm"
                     </argLine>
                     <systemProperties>
                         <property>
@@ -103,6 +114,5 @@
             </plugin>
         </plugins>
     </build>
-
 
 </project>
